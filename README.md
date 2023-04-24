@@ -10,7 +10,7 @@
 ### L - Liskov Substitution Principle (LSP): Subtypes should be substitutable for their base types.
 ### I - Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use.
 ### D - Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules. Both should depend on abstractions.<br>
-##### The SOLID principles are intended to make software designs more modular, flexible, and extensible. They promote the use of abstraction and interfaces, which help to decouple components and reduce dependencies between them. By following these principles, software systems can be easier to test, maintain, and evolve over time.
+##### The SOLID principles are intended to make software designs more modular, flexible, and extensible. They promote the use of abstraction and interfaces, which help to decouple components and reduce dependencies between them.
 
 
 
